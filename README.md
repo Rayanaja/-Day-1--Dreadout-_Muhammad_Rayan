@@ -1,15 +1,15 @@
 # Day-1-18_Among_Us_Muhammad_Rayan
-Sosialisasi TIK Day 1 Workshop GitHub
+## Sosialisasi TIK Day 1 Workshop GitHub
 
-Nama Peserta: Muhammad Rayan
+## Nama Peserta: Muhammad Rayan
 
-Kelompok: Among Us
+## Kelompok: Among Us
 
-Deskripsi Singkat: Sosialisasi TIK Day 1 Workshop GitHub.
+## Deskripsi Singkat: Sosialisasi TIK Day 1 Workshop GitHub.
 
-Tujuan: Memahami dasar penggunaan AI melalui Prompt Engineering serta mempelajari Git dan GitHub untuk mengelola perubahan kode, menyimpan proyek, dan mendukung proses pengembangan aplikasi secara terstruktur.
+## Tujuan: Memahami dasar penggunaan AI melalui Prompt Engineering serta mempelajari Git dan GitHub untuk mengelola perubahan kode, menyimpan proyek, dan mendukung proses pengembangan aplikasi secara terstruktur.
 
-Rangkuman materi
+## Rangkuman materi
 Materi ini membahas dua topik utama:
 
 * Prompt Engineering: Teknik menyusun instruksi yang efektif untuk AI dengan memperhatikan Role, Task, Context, dan Format agar menghasilkan output sesuai kebutuhan.
