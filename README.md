@@ -1,82 +1,18 @@
-> Dokumentasi workshop **"From AI to GitHub: Building with AI, Managing Change with GitHub"**
+# Day-1-18_Among_Us_Muhammad_Rayan
+Sosialisasi TIK Day 1 Workshop GitHub
 
----
+Nama Peserta: Muhammad Rayan
 
-## 👤 Identitas Peserta
+Kelompok: Among Us
 
-| | |
-|---|---|
-| **Nama Lengkap** | [Muhammad Rayan] |
-| **Kelompok** | [Dreadout] |
-| **Hari / Tanggal** | Day 1 – [7 November 2026] |
+Deskripsi Singkat: Sosialisasi TIK Day 1 Workshop GitHub.
 
----
+Tujuan: Memahami dasar penggunaan AI melalui Prompt Engineering serta mempelajari Git dan GitHub untuk mengelola perubahan kode, menyimpan proyek, dan mendukung proses pengembangan aplikasi secara terstruktur.
 
-## 📖 Deskripsi Repository
+Rangkuman materi
+Materi ini membahas dua topik utama:
 
-Repository ini berisi dokumentasi kegiatan workshop **Building with AI, Managing Change with GitHub** yang disampaikan oleh **Nugi Farhan (Senior Product Designer)**. Di dalamnya terdapat materi yang disampaikan, rangkuman catatan, serta poin-poin penting yang dipelajari selama workshop, mulai dari *prompt engineering* hingga penggunaan Git dan GitHub untuk mengelola perubahan kode.
+* Prompt Engineering: Teknik menyusun instruksi yang efektif untuk AI dengan memperhatikan Role, Task, Context, dan Format agar menghasilkan output sesuai kebutuhan.
+* Git dan GitHub: Git digunakan untuk melacak perubahan kode, sedangkan GitHub digunakan untuk menyimpan repository secara online dan mendukung kolaborasi.
 
-## 🎯 Tujuan Repository
-
-- Mendokumentasikan seluruh materi dan catatan workshop secara rapi dan terstruktur dalam satu tempat.
-- Menjadi bahan referensi belajar untuk mengulang kembali materi prompt engineering, Git, dan GitHub.
-- Menjadi latihan langsung membuat repository, menulis dokumentasi, dan mengunggahnya ke GitHub sesuai ketentuan tugas.
-
-## 🗓️ Tentang Kegiatan Workshop
-
-| | |
-|---|---|
-| **Judul** | From AI to GitHub – Building with AI, Managing Change with GitHub |
-| **Pemateri** | Nugi Farhan, Senior Product Designer |
-| **Topik 1** | Membuat dan mengembangkan sesuatu dengan bantuan AI (*prompt engineering*) |
-| **Topik 2** | Manajemen perubahan dan kolaborasi dengan Git & GitHub |
-| **Proyek latihan** | Student Task Planner (aplikasi web sederhana) |
-
-### Capaian Pembelajaran
-
-Setelah workshop, peserta diharapkan dapat:
-
-1. Menjelaskan bagaimana prompt AI yang lebih spesifik menghasilkan hasil yang lebih baik.
-2. Membedakan apa itu Git dan GitHub.
-3. Mengidentifikasi *repository*, *commit*, *branch*, dan *pull request*.
-4. Melakukan *version controlling*.
-
----
-
-## 📚 Dokumentasi Workshop
-
-### Daftar Isi
-
-1. [Materi 1 – Prompt Engineering](#materi-1--prompt-engineering)
-2. [Materi 2 – Git dan GitHub](#materi-2--git-dan-github)
-3. [Materi 3 – Setup Environment](#materi-3--setup-environment)
-4. [Materi 4 – Praktik: Student Task Planner](#materi-4--praktik-student-task-planner)
-5. [Poin Penting & Pengetahuan Baru](#-poin-penting--pengetahuan-baru)
-6. [Struktur Repository](#-struktur-repository)
-
----
-
-### Materi 1 – Prompt Engineering
-
-#### Apa itu prompt?
-
-**Prompt** adalah instruksi atau masukan yang diberikan kepada model AI untuk mendapatkan hasil tertentu. Bentuknya beragam: pertanyaan sederhana, kata kunci, instruksi yang rumit, hingga potongan kode.
-
-**Prompt engineering** adalah cara merancang instruksi agar AI memberikan jawaban yang **tepat, relevan, dan layak digunakan**.
-
-#### Context is key
-
-Prompt tanpa konteks menghasilkan jawaban yang melebar dan sulit diprediksi.
-
-| Tanpa konteks | Dengan konteks |
-|---|---|
-| `Create student task planner` | Prompt yang menjelaskan tujuan, kebutuhan, batasan, dan format hasil yang diinginkan |
-
-#### Struktur prompt yang baik
-
-| Komponen | Fungsi | Contoh pada prompt Student Task Planner |
-|---|---|---|
-| **Role** | Menetapkan peran AI | *"You are helping me build a beginner-friendly student task planner as a simple web application."* |
-| **Task** | Menjelaskan tujuan utama | *Goal*: membuat task planner untuk membantu mahasiswa tahun pertama memantau tugas dan tenggat |
-| **Context** | Kebutuhan dan batasan | *Requirements* (daftar tugas, tanggal tenggat, status selesai, filter) dan *Constraints* (HTML, CSS, vanilla JavaScript, tanpa library tambahan) |
-| **Format** | Bentuk keluaran | *Output*: kode lengkap tiap file, cara menjalankan, dan cara menguji interaksi utama |
+Materi juga mencakup dasar Git Workflow (Working Directory, Staging Area, dan Git Directory), perintah dasar Git seperti git init, git add, git commit, git push, dan git pull, serta konfigurasi SSH Key untuk menghubungkan komputer dengan GitHub.
