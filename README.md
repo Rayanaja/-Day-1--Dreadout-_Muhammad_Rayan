@@ -1,5 +1,3 @@
-         # Day-1-(Nama_Kelompok)_Nama Lengkap
-
 > Dokumentasi workshop **"From AI to GitHub: Building with AI, Managing Change with GitHub"**
 
 ---
